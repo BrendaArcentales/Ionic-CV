@@ -1,0 +1,7 @@
+{
+  "name": "CurriculumIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
